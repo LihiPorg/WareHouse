@@ -18,12 +18,7 @@ Ensure that you have a C++ compiler installed on your system.
 
 1. **Clone the Repository**
 
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd warehouse-management-system
-   ```
-
+2. **Navigate to the Project Directory**
 3. **Compile the Source Files:**
 
    Use the provided makefile to compile the project:
