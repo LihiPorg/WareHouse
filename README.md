@@ -16,11 +16,7 @@ Ensure that you have a C++ compiler installed on your system.
 
 ### Installation
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/warehouse-management-system.git
-   ```
+1. **Clone the Repository**
 
 2. **Navigate to the Project Directory:**
 
